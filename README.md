@@ -6,5 +6,6 @@ Adding some more text
 
 * this is a list item
 * this is another list item
+* hello there
 
 ![](sentosa.jpg)
